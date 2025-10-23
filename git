@@ -1,0 +1,35 @@
+[33mcommit 38f9c916e0dc393d667a9b630821f6f9a61b34ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Matthew Tannous <matthewtannous2006@gmail.com>
+Date:   Sat Apr 12 18:39:02 2025 +0300
+
+    added collision detection
+
+[33mcommit 0fca6222ed99f07a2f957dea24e2a6968b7bd204[m
+Author: Matthew Tannous <matthewtannous2006@gmail.com>
+Date:   Sat Apr 12 15:15:26 2025 +0300
+
+    finished projectiles. Beginning with collisions
+
+[33mcommit 23a8277cd1ac84dd945be443ed9dd178dd272f66[m
+Author: Matthew Tannous <matthewtannous2006@gmail.com>
+Date:   Thu Apr 10 13:14:57 2025 +0300
+
+    Finished ball
+
+[33mcommit e024f3293009b141a8618a19012fd6d4ea108e1e[m
+Author: Matthew Tannous <matthewtannous2006@gmail.com>
+Date:   Thu Apr 10 11:34:25 2025 +0300
+
+    Finished ball horizontal movement
+
+[33mcommit 027cd4e5786ce355e08c384b94272df23242b0f2[m
+Author: Matthew Tannous <matthewtannous2006@gmail.com>
+Date:   Wed Apr 2 10:09:46 2025 +0300
+
+    Added ball movement
+
+[33mcommit 1173d35795bf7fd02c6d28273359a58da9b51db1[m
+Author: Matthew Tannous <matthewtannous2006@gmail.com>
+Date:   Wed Apr 2 08:09:53 2025 +0300
+
+    Began project
