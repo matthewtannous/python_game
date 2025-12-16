@@ -1,5 +1,4 @@
 # ROLL BALL
-#### Video Demo: https://youtu.be/wcegSYYV7tg
 #### Description:
 
 ##### Overview:
@@ -51,4 +50,5 @@ Outside the class, at the end of the file, an instance of the game is created an
 Text file used to store the highscore of the game. It will be recreated if the old one is deleted, or if it contains invalid information.
 
 ##### requirements.txt
+
 Text file stating all requirements to run the project (besides python). Only pygame is needed.
